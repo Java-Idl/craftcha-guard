@@ -1,0 +1,5 @@
+{
+  "name": "Craftcha Guard",
+  "description": "A soft-brutalist authentication portal featuring a Minecraft-inspired crafting CAPTCHA to secure a comment board.",
+  "requestFramePermissions": []
+}

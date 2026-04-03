@@ -1,0 +1,51 @@
+
+.icon-minecraft, .icon-minecraft-sm {
+	display: inline-block;
+	vertical-align: middle;
+	background-image: url(https://raw.githubusercontent.com/Pikodat/Minecraft-Web-Icons/main/icons-minecraft-235.png);
+	background-repeat: no-repeat;
+	background-position: 32px 32px;
+	
+	-ms-interpolation-mode: nearest-neighbor;
+	image-rendering: -webkit-optimize-contrast;
+	image-rendering: pixelated;
+	image-rendering: -moz-crisp-edges;
+	image-rendering: -o-pixelated;
+	image-rendering: crisp-edges;
+}
+.icon-minecraft {
+	width: 32px;
+	height: 32px;
+}
+.icon-minecraft-sm {
+	width: 16px;
+	height: 16px;
+	background-size: 512px auto;
+}
+
+/* --- Ingredients --- */
+.icon-minecraft-oak-planks{background-position:-512px -960px;}
+.icon-minecraft-stick{background-position:-512px -1376px;}
+.icon-minecraft-diamond{background-position:-608px -480px;}
+.icon-minecraft-iron-ingot{background-position:-480px -704px;}
+.icon-minecraft-gold-ingot{background-position:-384px -608px;}
+
+/* --- Junk Items --- */
+.icon-minecraft-cobblestone{background-position:-224px -320px;}
+.icon-minecraft-dirt{background-position:-160px -512px;}
+.icon-minecraft-oak-sapling{background-position:-576px -960px;}
+.icon-minecraft-apple{background-position:-32px -32px;}
+.icon-minecraft-slime-ball{background-position:-32px -1312px;}
+.icon-minecraft-redstone{background-position:-320px -1248px;}
+.icon-minecraft-gunpowder{background-position:-192px -672px;}
+.icon-minecraft-string{background-position:-128px -1408px;}
+.icon-minecraft-feather{background-position:-32px -576px;}
+.icon-minecraft-bread{background-position:-896px -160px;}
+.icon-minecraft-coal{background-position:0 -320px;}
+.icon-minecraft-flint{background-position:-512px -576px;}
+
+/* --- Tools / Output --- */
+.icon-minecraft-diamond-pickaxe{background-position:-928px -480px;}
+.icon-minecraft-iron-sword{background-position:-736px -704px;}
+.icon-minecraft-wooden-shovel{background-position:-992px -1600px;}
+.icon-minecraft-golden-hoe{background-position:-672px -608px;}
